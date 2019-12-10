@@ -14,5 +14,4 @@ I study the neuro-computational basis of visual perception, perceptual learning,
 
 on twitter: [@ShahabBakht](https://twitter.com/shahabbakht?lang=en)
 
-
 email: shahab[DOT]bakhtiari[AT]gmail[DOT]com
