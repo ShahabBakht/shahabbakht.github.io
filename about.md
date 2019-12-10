@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Shahab Bakhtiari. I am currently a postdoc in Blake Richard's lab (aka LiNC Lab) at Mila - McGill University. Before that, I was a PhD student in Chris Pack's lab at McGill University. My main area of research is visual perception and  perceptual learning. I use artificial neural networks as a theoretical framework for understanding brains.
+My name is Shahab Bakhtiari. I am currently a postdoctoral researcher in Blake Richard's lab (aka LiNC Lab) at [Mila](https://mila.quebec/en/). Before that, I was a PhD student in neuroscience Chris Pack's lab at McGill University. My main area of research is visual perception and  perceptual learning. I use artificial neural networks as a theoretical framework for understanding brains.
 
 ### More Information
 
