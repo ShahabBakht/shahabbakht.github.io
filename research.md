@@ -1,6 +1,8 @@
 
 I study the neuro-computational basis of visual perception, perceptual learning, and visually guided behaviors. I use artificial neural networks as a theoretical framework for hypothesizing about brain mechanisms that underlie learning, action, and perception. 
 
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
 ### Projects
 
 #### Visual Perceptual Learning: How specific is it? [(Link to the paper)](https://doi.org/10.1167/jov.20.6.13)
