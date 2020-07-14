@@ -1,17 +1,19 @@
 
 I study the neuro-computational basis of visual perception, perceptual learning, and visually guided behaviors. I use artificial neural networks as a theoretical framework for hypothesizing about brain mechanisms that underlie learning, action, and perception. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 ### Projects
 
 #### Visual Perceptual Learning: How specific is it? [(Link to the paper)](https://doi.org/10.1167/jov.20.6.13)
+
+![_config.yml]({{ site.baseurl }}/images/VPL.png)
 
 Although the structure and function of the human visual system are determined in large part during early development, there is ample evidence for adult plasticity as well. Such plasticity has important consequences for restoring vision after cortical damage and for improving function in healthy people. Although these applications have shown promising results, they are often limited by pathological specificity: improvements obtained through perceptual training fail to generalize beyond the trained stimulus feature or location. Efforts to reduce specificity have focused on the design of training tasks, but less is known about the effects of stimulus structure on the specificity of perceptual learning. Here, we leverage physiological findings from the dorsal visual pathway of the primate brain to explore the hypothesis that learning specificity is related to the complexity of the training stimulus. Specifically, because neurons in higher-level structures of the dorsal visual pathway exhibit little stimulus specificity, we reasoned that training with more complex stimuli would reduce the specificity of learning. We trained human observers on stimuli of varying complexity, ranging from simple sinewave gratings to complex optic flow fields. Our results show that training with more complex stimuli reduces specificity for spatial position and stimulus features. Such changes are associated with increased spatial integration. These findings were captured by a computational “reweighting” model that decoded the outputs of simulated neurons in areas middle temporal (MT) and medial superior temporal (MST) of the primate visual cortex. Our results suggest that the addition of more complex stimuli into perceptual learning paradigms provides a simple and effective way to minimize specificity in learning.
 
 
 
 ### Smooth pursuit eye movements: where does the behavioral variability come from? [(Link to the paper)](https://doi.org/10.12688/mniopenres.12806.2)
+
+![_config.yml]({{ site.baseurl }}/images/SPEM.gif)
 
 Smooth pursuit eye movements have frequently been used to model sensorimotor transformations in the brain. In particular, the initiation phase of pursuit can be understood as a transformation of a sensory estimate of target velocity into an eye rotation. Despite careful laboratory controls on the stimulus conditions, pursuit eye movements are frequently observed to exhibit considerable trial-to-trial variability. In theory, this variability can be caused by the variability in sensory representation of target motion, or by the variability in the transformation of sensory information to motor commands. Previous work has shown that neural variability in the middle temporal (MT) area is likely propagated to the oculomotor command, and there is evidence to suggest that the magnitude of this variability is sufficient to account for the variability of pursuit initiation. This line of reasoning presumes that the MT population is homogeneous with respect to its contribution to pursuit initiation.  At the same time, there is evidence that pursuit initiation is strongly linked to a subpopulation of MT neurons (those with strong surround suppression) that collectively generate less motor variability. To distinguish between these possibilities, we have combined human psychophysics, monkey electrophysiology, and computational modeling to examine how the pursuit system reads out the MT population during pursuit initiation. We find that the psychophysical data are best accounted for by a model that gives stronger weight to surround-suppressed MT neurons, suggesting that variability in the initiation of pursuit could arise from multiple sources along the sensorimotor transformation
 
